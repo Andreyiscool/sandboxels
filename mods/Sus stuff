@@ -1,0 +1,6 @@
+elements.sus_stuff = {
+color: "#ff0000",
+behavior: behaviors.liquid,
+category: "liquids",
+state: "liquid",
+};
